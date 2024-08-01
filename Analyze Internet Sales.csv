@@ -1,0 +1,271 @@
+﻿Region,City,CityTotal,RegionTotal,RegionalRank
+Australia,Wollongong,338913.4665,9061000.5844,1
+Australia,Warrnambool,327036.3682,9061000.5844,2
+Australia,Bendigo,314568.7193,9061000.5844,3
+Australia,Goulburn,310875.8978,9061000.5844,4
+Australia,Brisbane,295353.5779,9061000.5844,5
+Australia,Townsville,285486.9112,9061000.5844,6
+Australia,Geelong,283802.1750,9061000.5844,7
+Australia,Caloundra,281986.3402,9061000.5844,8
+Australia,Sydney,280983.3113,9061000.5844,9
+Australia,Port Macquarie,278084.4993,9061000.5844,10
+Australia,Sunbury,266949.5347,9061000.5844,11
+Australia,Melton,262606.4258,9061000.5844,12
+Australia,Hervey Bay,259256.5090,9061000.5844,13
+Australia,Gold Coast,248767.9840,9061000.5844,14
+Australia,Melbourne,246557.5296,9061000.5844,15
+Australia,Newcastle,245936.5243,9061000.5844,16
+Australia,Hobart,239937.9033,9061000.5844,17
+Australia,Coffs Harbour,235454.9685,9061000.5844,18
+Australia,Hawthorne,226706.4414,9061000.5844,19
+Australia,Lane Cove,220083.5784,9061000.5844,20
+Australia,Cloverdale,218966.9548,9061000.5844,21
+Australia,Matraville,216564.4405,9061000.5844,22
+Australia,Perth,215900.3882,9061000.5844,23
+Australia,Rockhampton,211937.3994,9061000.5844,24
+Australia,North Ryde,208082.6244,9061000.5844,25
+Australia,South Melbourne,205796.8297,9061000.5844,26
+Australia,Rhodes,200418.5600,9061000.5844,27
+Australia,Lavender Bay,195122.9001,9061000.5844,28
+Australia,Seaford,188063.4255,9061000.5844,29
+Australia,Milsons Point,187075.6008,9061000.5844,30
+Australia,St. Leonards,185423.0829,9061000.5844,31
+Australia,Cranbourne,184525.0555,9061000.5844,32
+Australia,Findon,183388.5186,9061000.5844,33
+Australia,East Brisbane,178919.8666,9061000.5844,34
+Australia,Malabar,176905.6105,9061000.5844,35
+Australia,Silverwater,175222.5111,9061000.5844,36
+Australia,Springwood,165100.6608,9061000.5844,37
+Australia,North Sydney,159227.1119,9061000.5844,38
+Australia,Darlinghurst,155010.3774,9061000.5844,39
+Canada,Cliffside,211608.9046,1977844.8621,1
+Canada,Langford,148632.3588,1977844.8621,2
+Canada,Oak Bay,144920.3202,1977844.8621,3
+Canada,Royal Oak,137203.9710,1977844.8621,4
+Canada,Shawnee,128835.0563,1977844.8621,5
+Canada,Newton,126086.6603,1977844.8621,6
+Canada,Port Hammond,124619.8417,1977844.8621,7
+Canada,Vancouver,124415.6281,1977844.8621,8
+Canada,Sooke,124314.7910,1977844.8621,9
+Canada,Haney,115526.8817,1977844.8621,10
+Canada,N. Vancouver,114779.7255,1977844.8621,11
+Canada,Langley,109110.8141,1977844.8621,12
+Canada,Westminster,108086.0985,1977844.8621,13
+Canada,Victoria,104065.4114,1977844.8621,14
+Canada,Metchosin,103566.1007,1977844.8621,15
+Canada,Burnaby,29567.5357,1977844.8621,16
+Canada,Calgary,22467.8025,1977844.8621,17
+Canada,Chalk Riber,36.9600,1977844.8621,18
+France,Paris,539725.8000,2644017.7143,1
+France,Les Ulis,181244.7285,2644017.7143,2
+France,Versailles,102657.2528,2644017.7143,3
+France,Metz,94046.2295,2644017.7143,4
+France,Tremblay-en-France,91857.5692,2644017.7143,5
+France,Orleans,91562.9056,2644017.7143,6
+France,Colombes,90268.5149,2644017.7143,7
+France,Bobigny,90204.4535,2644017.7143,8
+France,Chatou,89830.1988,2644017.7143,9
+France,Villeneuve-d'Ascq,89136.4521,2644017.7143,10
+France,Roubaix,86282.6274,2644017.7143,11
+France,Saint Ouen,85470.7559,2644017.7143,12
+France,Pantin,77603.7560,2644017.7143,13
+France,Saint Germain en Laye,76177.3442,2644017.7143,14
+France,Dunkerque,75474.3824,2644017.7143,15
+France,Lille,65419.9325,2644017.7143,16
+France,Saint-Denis,63782.5914,2644017.7143,17
+France,Lieusaint,57094.8010,2644017.7143,18
+France,Morangis,56432.8421,2644017.7143,19
+France,Drancy,56031.3778,2644017.7143,20
+France,Colomiers,54641.7232,2644017.7143,21
+France,Roissy en Brie,52640.4374,2644017.7143,22
+France,Cergy,46755.9003,2644017.7143,23
+France,Paris La Defense,45350.8599,2644017.7143,24
+France,Verrieres Le Buisson,41619.6132,2644017.7143,25
+France,Sèvres,39598.2035,2644017.7143,26
+France,Courbevoie,38809.6307,2644017.7143,27
+France,Roncq,38304.8721,2644017.7143,28
+France,Croix,36781.9349,2644017.7143,29
+France,Suresnes,35099.7325,2644017.7143,30
+France,Orly,28478.1246,2644017.7143,31
+France,Boulogne-Billancourt,14289.2439,2644017.7143,32
+France,Boulogne-sur-Mer,11342.9225,2644017.7143,33
+Germany,Berlin,260930.6271,2894312.3382,1
+Germany,Hamburg,195672.2731,2894312.3382,2
+Germany,Frankfurt,184292.5851,2894312.3382,3
+Germany,München,160244.4131,2894312.3382,4
+Germany,Paderborn,138240.2119,2894312.3382,5
+Germany,Frankfurt am Main,110121.5285,2894312.3382,6
+Germany,Ingolstadt,109037.4092,2894312.3382,7
+Germany,Solingen,100217.2366,2894312.3382,8
+Germany,Neunkirchen,93896.6749,2894312.3382,9
+Germany,Hof,91915.1432,2894312.3382,10
+Germany,Kassel,84798.3249,2894312.3382,11
+Germany,Offenbach,84521.1341,2894312.3382,12
+Germany,Stuttgart,80507.4578,2894312.3382,13
+Germany,Erlangen,77585.5228,2894312.3382,14
+Germany,Saarlouis,76614.3900,2894312.3382,15
+Germany,Darmstadt,76433.2457,2894312.3382,16
+Germany,Bottrop,72895.5528,2894312.3382,17
+Germany,Kiel,67554.6171,2894312.3382,18
+Germany,Werne,67125.5539,2894312.3382,19
+Germany,Sulzbach Taunus,66739.7746,2894312.3382,20
+Germany,Leipzig,60193.2592,2894312.3382,21
+Germany,Duesseldorf,59787.4925,2894312.3382,22
+Germany,Eilenburg,57919.2085,2894312.3382,23
+Germany,Dresden,57590.0057,2894312.3382,24
+Germany,Salzgitter,57353.2421,2894312.3382,25
+Germany,Essen,55349.6174,2894312.3382,26
+Germany,Grevenbroich,53576.0778,2894312.3382,27
+Germany,Mühlheim,52821.2213,2894312.3382,28
+Germany,Saarbrücken,50324.3374,2894312.3382,29
+Germany,Münster,49718.8557,2894312.3382,30
+Germany,Bonn,42705.2275,2894312.3382,31
+Germany,Poing,40132.9003,2894312.3382,32
+Germany,Hannover,28792.2200,2894312.3382,33
+Germany,Braunschweig,28704.9964,2894312.3382,34
+United Kingdom,London,802810.2969,3391712.2109,1
+United Kingdom,York,226396.0455,3391712.2109,2
+United Kingdom,Oxford,166447.7945,3391712.2109,3
+United Kingdom,Warrington,155546.3235,3391712.2109,4
+United Kingdom,Milton Keynes,132212.8566,3391712.2109,5
+United Kingdom,Watford,118505.2457,3391712.2109,6
+United Kingdom,Newcastle upon Tyne,114667.2889,3391712.2109,7
+United Kingdom,Runcorn,104152.1164,3391712.2109,8
+United Kingdom,Leeds,99748.8802,3391712.2109,9
+United Kingdom,Esher-Molesey,99359.3399,3391712.2109,10
+United Kingdom,Gateshead,98159.4496,3391712.2109,11
+United Kingdom,Kirkby,96390.7910,3391712.2109,12
+United Kingdom,Stoke-on-Trent,92437.8360,3391712.2109,13
+United Kingdom,Peterborough,86742.8889,3391712.2109,14
+United Kingdom,Billericay,84337.0892,3391712.2109,15
+United Kingdom,Bury,80337.1828,3391712.2109,16
+United Kingdom,Cheltenham,70312.3149,3391712.2109,17
+United Kingdom,Woolston,66757.5232,3391712.2109,18
+United Kingdom,Wokingham,66489.4796,3391712.2109,19
+United Kingdom,Liverpool,60505.1471,3391712.2109,20
+United Kingdom,Berkshire,58119.8632,3391712.2109,21
+United Kingdom,Birmingham,53558.8789,3391712.2109,22
+United Kingdom,Lancaster,52707.2156,3391712.2109,23
+United Kingdom,Oxon,50663.0471,3391712.2109,24
+United Kingdom,Maidenhead,49773.0546,3391712.2109,25
+United Kingdom,West Sussex,48576.6028,3391712.2109,26
+United Kingdom,Berks,46935.1070,3391712.2109,27
+United Kingdom,W. York,44931.0900,3391712.2109,28
+United Kingdom,Cambridge,35009.0657,3391712.2109,29
+United Kingdom,Gloucestershire,34956.7407,3391712.2109,30
+United Kingdom,Bracknell,34116.3885,3391712.2109,31
+United Kingdom,Reading,32275.6157,3391712.2109,32
+United Kingdom,High Wycombe,24501.9725,3391712.2109,33
+United Kingdom,Basingstoke Hants,3271.6782,3391712.2109,34
+United States,Bellflower,302278.8057,9389789.5108,1
+United States,Burbank,276466.2320,9389789.5108,2
+United States,Berkeley,258138.4605,9389789.5108,3
+United States,Colma,233961.9866,9389789.5108,4
+United States,Chula Vista,233416.3297,9389789.5108,5
+United States,Burien,230359.4962,9389789.5108,6
+United States,Bremerton,227081.6480,9389789.5108,7
+United States,Burlingame,225663.6362,9389789.5108,8
+United States,Concord,210445.8622,9389789.5108,9
+United States,Bellingham,207613.2532,9389789.5108,10
+United States,Beverly Hills,202696.9645,9389789.5108,11
+United States,Lemon Grove,184566.8141,9389789.5108,12
+United States,Woodland Hills,170277.9247,9389789.5108,13
+United States,Beaverton,161959.4270,9389789.5108,14
+United States,Santa Monica,160427.2862,9389789.5108,15
+United States,Torrance,148429.8141,9389789.5108,16
+United States,Coronado,146836.9552,9389789.5108,17
+United States,Long Beach,146801.6777,9389789.5108,18
+United States,El Cajon,138841.8005,9389789.5108,19
+United States,Walla Walla,138734.2819,9389789.5108,20
+United States,Santa Cruz,137824.7753,9389789.5108,21
+United States,Spring Valley,134365.4635,9389789.5108,22
+United States,Lebanon,133558.9124,9389789.5108,23
+United States,Milwaukie,132017.9684,9389789.5108,24
+United States,Issaquah,128693.9269,9389789.5108,25
+United States,Lincoln Acres,126762.2102,9389789.5108,26
+United States,Downey,125997.6645,9389789.5108,27
+United States,Oakland,125898.2530,9389789.5108,28
+United States,Corvallis,124758.5410,9389789.5108,29
+United States,Lake Oswego,123850.0777,9389789.5108,30
+United States,San Gabriel,119804.6297,9389789.5108,31
+United States,Lakewood,119741.8556,9389789.5108,32
+United States,Marysville,118732.8813,9389789.5108,33
+United States,Glendale,118357.3874,9389789.5108,34
+United States,Olympia,116289.4060,9389789.5108,35
+United States,Sedro Woolley,116147.1210,9389789.5108,36
+United States,West Covina,115931.1902,9389789.5108,37
+United States,Newport Beach,115767.2299,9389789.5108,38
+United States,Novato,115640.6855,9389789.5108,39
+United States,National City,115171.8241,9389789.5108,40
+United States,San Carlos,114476.9442,9389789.5108,41
+United States,Palo Alto,113856.1060,9389789.5108,42
+United States,Los Angeles,112983.7065,9389789.5108,43
+United States,Puyallup,112490.1756,9389789.5108,44
+United States,Grossmont,111776.8227,9389789.5108,45
+United States,Portland,110649.5360,9389789.5108,46
+United States,Port Orchard,106961.6563,9389789.5108,47
+United States,La Jolla,105378.4995,9389789.5108,48
+United States,Edmonds,104809.7038,9389789.5108,49
+United States,Lynnwood,101892.1707,9389789.5108,50
+United States,Tacoma,101862.2696,9389789.5108,51
+United States,Redwood City,101144.7367,9389789.5108,52
+United States,Kirkland,100168.3538,9389789.5108,53
+United States,San Diego,99590.3935,9389789.5108,54
+United States,W. Linn,99233.1842,9389789.5108,55
+United States,Salem,98670.4374,9389789.5108,56
+United States,Imperial Beach,97583.5078,9389789.5108,57
+United States,Renton,97355.2609,9389789.5108,58
+United States,Yakima,94460.0696,9389789.5108,59
+United States,Mill Valley,92187.6707,9389789.5108,60
+United States,Oregon City,91490.4678,9389789.5108,61
+United States,Everett,91471.1745,9389789.5108,62
+United States,Woodburn,90052.9778,9389789.5108,63
+United States,Daly City,86249.8274,9389789.5108,64
+United States,Redmond,78824.3681,9389789.5108,65
+United States,Fremont,78157.8139,9389789.5108,66
+United States,Seattle,75164.8614,9389789.5108,67
+United States,Spokane,69105.7288,9389789.5108,68
+United States,San Francisco,68659.1249,9389789.5108,69
+United States,Ballard,45308.9957,9389789.5108,70
+United States,Clearwater,7721.9296,9389789.5108,71
+United States,Bell Gardens,5920.2400,9389789.5108,72
+United States,Cheyenne,5900.5500,9389789.5108,73
+United States,Canoga Park,4803.3200,9389789.5108,74
+United States,Clackamas,4750.0100,9389789.5108,75
+United States,Bountiful,4355.6100,9389789.5108,76
+United States,Barstow,3578.2700,9389789.5108,77
+United States,Chicago,2820.8096,9389789.5108,78
+United States,Citrus Heights,2452.0400,9389789.5108,79
+United States,Bluffton,2434.9200,9389789.5108,80
+United States,City Of Commerce,2400.3400,9389789.5108,81
+United States,Cheektowaga,2337.2700,9389789.5108,82
+United States,Chandler,2104.0196,9389789.5108,83
+United States,Braintree,2049.0982,9389789.5108,84
+United States,Bellevue,2049.0982,9389789.5108,84
+United States,Clay,1735.9800,9389789.5108,86
+United States,Columbus,1694.4200,9389789.5108,87
+United States,Bothell,1667.4500,9389789.5108,88
+United States,College Station,1597.7000,9389789.5108,89
+United States,Camarillo,1286.4300,9389789.5108,90
+United States,Casper,1214.4600,9389789.5108,91
+United States,Cerritos,1145.4800,9389789.5108,92
+United States,Cincinnati,281.9300,9389789.5108,93
+United States,Campbellsville,216.9600,9389789.5108,94
+United States,Carson,119.9800,9389789.5108,95
+United States,Cedar Park,93.9700,9389789.5108,96
+United States,Billings,92.0800,9389789.5108,97
+United States,Branch,91.2800,9389789.5108,98
+United States,Biloxi,82.5900,9389789.5108,99
+United States,Branson,81.4600,9389789.5108,100
+United States,Carrollton,71.9500,9389789.5108,101
+United States,Cedar City,63.9700,9389789.5108,102
+United States,Central Valley,50.9400,9389789.5108,103
+United States,Chantilly,39.9800,9389789.5108,104
+United States,Bradenton,38.9800,9389789.5108,105
+United States,Birmingham,37.2900,9389789.5108,106
+United States,Clarkston,29.4800,9389789.5108,107
+United States,Baytown,25.4800,9389789.5108,108
+United States,Carol Stream,7.2800,9389789.5108,109
+United States,Charlotte,7.2800,9389789.5108,109
+United States,Chehalis,4.9900,9389789.5108,111
+United States,Byron,4.9900,9389789.5108,111
